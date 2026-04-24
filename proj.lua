@@ -1,7 +1,6 @@
--- Miguel Rodriguez
 --[[
 This is a simple program introduction to tables
-this specific case its just mixing different type
+this specific case is just mixing different type
 of tables you can create in lua, one being list
 type, and the other being mix-style tyle.
 ]]
