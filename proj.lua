@@ -1,3 +1,4 @@
+-- Miguel Rodriguez :)
 --[[
 This is a simple program introduction to tables
 this specific case is just mixing different type
