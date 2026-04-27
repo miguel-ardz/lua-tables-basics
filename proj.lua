@@ -1,5 +1,4 @@
 -- Miguel Rodriguez :)
--- LUA TABLES
 --[[
 This is a simple program introduction to tables
 this specific case is just mixing different type
